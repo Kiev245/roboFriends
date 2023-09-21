@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'ArcadeClassic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('ArcadeClassic'), url('ARCADECLASSIC.woff') format('woff');
+}
+
+h1 {
+    font-family: 'ArcadeClassic';
+    font-weight: 200;
+    color: #0ccac4;
+}

@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b51e799e.css",
+    "main.js": "/static/js/main.102bec77.js",
+    "static/js/787.32032a02.chunk.js": "/static/js/787.32032a02.chunk.js",
+    "static/media/ARCADECLASSIC.woff": "/static/media/ARCADECLASSIC.b32f83621242deaa4e92.woff",
+    "index.html": "/index.html",
+    "main.b51e799e.css.map": "/static/css/main.b51e799e.css.map",
+    "main.102bec77.js.map": "/static/js/main.102bec77.js.map",
+    "787.32032a02.chunk.js.map": "/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b51e799e.css",
+    "static/js/main.102bec77.js"
+  ]
+}
